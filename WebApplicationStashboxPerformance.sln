@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationStashboxPerformance", "WebApplicationStashboxPerformance\WebApplicationStashboxPerformance.csproj", "{AC51DCC3-BCE9-4EF1-9A02-F937B2EA8EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{CA6D53E4-8CCB-447B-BCAF-9B900FB4413B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC51DCC3-BCE9-4EF1-9A02-F937B2EA8EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC51DCC3-BCE9-4EF1-9A02-F937B2EA8EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC51DCC3-BCE9-4EF1-9A02-F937B2EA8EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC51DCC3-BCE9-4EF1-9A02-F937B2EA8EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6D53E4-8CCB-447B-BCAF-9B900FB4413B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6D53E4-8CCB-447B-BCAF-9B900FB4413B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6D53E4-8CCB-447B-BCAF-9B900FB4413B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6D53E4-8CCB-447B-BCAF-9B900FB4413B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0AFBDB3-B595-4ABA-A6F6-AD63655F5729}
+	EndGlobalSection
+EndGlobal
