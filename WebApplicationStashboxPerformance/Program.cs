@@ -18,7 +18,7 @@ namespace WebApplicationStashboxPerformance
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
-                .UseStashbox()
+                //.UseStashbox()
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
